@@ -86,3 +86,14 @@ Possible improvements for this project:
 	•	Exporting analysis results into a report
 	•	Adding more statistics about productivity
 	•	Tracking weekly or monthly progress
+	## Example Charts
+	## Example Charts
+
+### Average Productivity by Start Hour
+![Average Productivity by Hour](reports/avg_productivity_by_hour.png)
+
+### Total Focus Minutes by Weekday
+![Minutes by Weekday](reports/minutes_by_weekday.png)
+
+### Average Productivity by Label
+![Average Productivity by Label](reports/avg_productivity_by_label.png)
